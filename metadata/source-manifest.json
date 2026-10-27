@@ -1,0 +1,19 @@
+{
+  "snapshot_date": "2026-10-27",
+  "scope": "One independent LISP tool; original bytes preserved",
+  "files": [
+    {
+      "path": "lsp/SXX.lsp",
+      "bytes": 2402,
+      "sha256": "4317a7f0ab097009ee29f934c369f6009ec214a33fd88f1ea44acd8acf7c7002",
+      "encoding": "utf-8",
+      "bom": false,
+      "commands": [
+        {
+          "name": "SXX",
+          "line": 1
+        }
+      ]
+    }
+  ]
+}

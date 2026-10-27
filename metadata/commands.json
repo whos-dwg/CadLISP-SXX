@@ -1,0 +1,11 @@
+[
+  {
+    "file": "lsp/SXX.lsp",
+    "commands": [
+      "SXX"
+    ],
+    "title": "同層同長度斜線選取",
+    "category": "幾何處理",
+    "manual": "README.md"
+  }
+]
